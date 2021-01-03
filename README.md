@@ -26,4 +26,8 @@ Soy desarrolladora web ✨ _**PHP Full Stack**_ ✨ , con más de 10 años de ex
  - [x] Desarrollo de Marca Personal.
 
 ## 📫 Si quieres contactar conmigo para más información o para hacer networking, te dejo mis coordenadas
+**[LinkedIn](https://www.linkedin.com/in/albalau-dev/)**
+**[Twitter](https://twitter.com/albalaudev)**
+**[Telegram](https://telegram.me/albalau_dev)**
+**[Mi sitio Web](https://albalau-dev.github.io/)** 
 
