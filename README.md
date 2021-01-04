@@ -4,7 +4,7 @@
 
 Soy desarrolladora web ✨ _**PHP Full Stack**_ ✨ , con más de 10 años de experiencia en la industria tecnológica, autodidacta, amante del Software Libre y en constante formación.
 
-## Con las siguientes tecnología defino mi ruta de carrera
+## Con las siguientes tecnologías defino mi ruta de carrera
 
  - Stack MERN
  - JavaScript - Jest
